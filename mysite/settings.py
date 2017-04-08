@@ -25,7 +25,9 @@ SECRET_KEY = 'j11*054+p9!kr^!u#+!usb$ngilw49df$ebs__0$_%xcfld6qa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'martysuk99.pythonanywhere.com',
+]
 
 
 # Application definition
